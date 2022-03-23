@@ -3,8 +3,7 @@
 ### Мой instagramm [ссылка тут](https://instagram/vadim__zakharchenko)
 ### Мой VK [ссылка тут](https://vk.com/id226763322)
 
-###### Связаться со мной:
-###### vadimzaharchenko117@gmail.com
+###### Связаться со мной: vadimzaharchenko117@gmail.com
 
 
 
@@ -13,5 +12,4 @@
 ### My instagram [link here](https://instagram/vadim__zakharchenko)
 ### My VK [link here](https://vk.com/id226763322)
 
-###### Contact with me:
-###### vadimzaharchenko117@gmail.com
+###### Contact with me: vadimzaharchenko117@gmail.com
