@@ -1,6 +1,6 @@
 # Привет, меня зовут Вадим! 👋
 ## Фронтенд разработчик
-### Мой instagramm [ссылка тут](https://instagram/vadim__zakharchenko)
+### Мой instagram [ссылка тут](https://instagram/vadim__zakharchenko)
 ### Мой VK [ссылка тут](https://vk.com/id226763322)
 
 ###### Связаться со мной: vadimzaharchenko117@gmail.com
