@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет, меня зовут Вадим! 👋
+## Фронтенд разработчик
+### Мой instagramm [ссылка тут] (https://instagram/vadim__zakharchenko)
+### Мой VK [ссылка тут] (https://vk.com/id226763322)
 
-<!--
-**VadimZakharchenko/VadimZakharchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Связаться со мной:
+###### vadimzaharchenko117@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hello, my name is Vadim! 👋
+## Frontend developer
+### My instagram [link here] (https://instagram/vadim__zakharchenko)
+### My VK [link here] (https://vk.com/id226763322)
+
+###### Contact with me:
+###### vadimzaharchenko117@gmail.com
