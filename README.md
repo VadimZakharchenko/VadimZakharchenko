@@ -1,18 +1,18 @@
-<h1 align="center">Привет, меня зовут <a href="https://instagram/vadim__zakharchenko" target="_blank">Вадим</a> 
+<h1 align="center">Привет, меня зовут <a href="#" target="_blank">Вадим</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Фронтенд разработчик</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-### Мой instagram [ссылка тут](https://instagram/vadim__zakharchenko)
-### Мой VK [ссылка тут](https://vk.com/id226763322)
+### Мой [Instagram](https://instagram/vadim__zakharchenko)
+### Мой [VK](https://vk.com/id226763322)
 
 ###### Связаться со мной: vadimzaharchenko117@gmail.com
 
 
+<h1 align="center">Hello, my name is <a href="#" target="_blank">Vadim!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend developer</h3>
 
-# Hello, my name is Vadim! 👋
-## Frontend developer
-### My instagram [link here](https://instagram/vadim__zakharchenko)
-### My VK [link here](https://vk.com/id226763322)
+### My [Instagram](https://instagram/vadim__zakharchenko)
+### My [VK](https://vk.com/id226763322)
 
 ###### Contact with me: vadimzaharchenko117@gmail.com
