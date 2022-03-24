@@ -16,3 +16,5 @@
 ### My [VK](https://vk.com/id226763322)
 
 ###### Contact with me: vadimzaharchenko117@gmail.com
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
