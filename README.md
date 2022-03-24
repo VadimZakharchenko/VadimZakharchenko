@@ -5,6 +5,8 @@
 ### Мой [Instagram](https://instagram/vadim__zakharchenko)
 ### Мой [VK](https://vk.com/id226763322)
 
+**Мое** _портфолио_
+
 ###### Связаться со мной: vadimzaharchenko117@gmail.com
 
 
@@ -16,5 +18,3 @@
 ### My [VK](https://vk.com/id226763322)
 
 ###### Contact with me: vadimzaharchenko117@gmail.com
-
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
