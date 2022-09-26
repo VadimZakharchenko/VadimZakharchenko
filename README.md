@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="#" target="_blank">Вадим!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Я UX/UI Дизайнер</h3>
+<h3 align="center">UX/UI Дизайнер</h3>
 
 <h4 align="left">Работы:</h4>
 <h5>1. <a href="https://vadimzakharchenko.github.io/super-slider/" target="_blank">Подбор внедорожников "ВЕЗДЕХОД"</a></h5>
